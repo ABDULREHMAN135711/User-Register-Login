@@ -1,4 +1,3 @@
-// App.jsx
 import { BrowserRouter , Routes, Route } from 'react-router-dom';
 import Home from './assets/Home';
 import Signup from './assets/Signup';
